@@ -6,7 +6,7 @@ Skills: Solidity / Smart Contract Security / MERN
 - 🔭 I’m currently working on Web3 Development  
 - 🌱 I’m currently learning Smart Contract Security 
 - 👯 I’m looking to collaborate on making Ethereum Secure 
-- 📫 How to reach me: https://twitter.com/07VaishDity 
+- 📫 How to reach me: https://twitter.com/Vaiz_07
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: The world is too big as well as too small. 
 
