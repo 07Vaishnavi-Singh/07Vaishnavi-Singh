@@ -11,5 +11,5 @@ Skills: Solidity / Smart Contract Security / MERN
 - ⚡ Fun fact: The world is too big as well as too small. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/07Vaiz_07)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/07Vaiz_07)  
 
