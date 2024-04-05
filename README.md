@@ -11,7 +11,7 @@
   
 - 👨‍💻 3X Hackathon Winner
 
-- 🤝 Previously interned  @AlphaVault<>
+- 🤝 Prev AlphaVault
 
   
 - 📫 How to reach me **gaursinghvaishnavi@gmail.com**
