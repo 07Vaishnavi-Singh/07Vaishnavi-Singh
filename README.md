@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Vaiz</h1>
 <h3 align="center">A Blockchain and Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=07vaishnavi-singh&label=Profile%20views&color=0e75b6&style=flat" alt="07vaishnavi-singh" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=07vaishnavi-singh&label=Profile%20views&color=0e75b6&style=flat" alt="07vaishnavi-singh" /> </p>
 
 - 🌱 I’m currently learning **Solidity,Yul and Assembly**
 
-- 👯 I’m looking to collaborate on **any cool Project on DeFi**
+- 👯 I'm always ready to collaborate on exciting DeFi projects out there
 
 - 💬 Ask me about **Solidity, Yul and DeFi**
   
 - 👨‍💻 3X Hackathon Winner
+
+- 🤝 Previously interned  @AlphaVault<>
+
   
 - 📫 How to reach me **gaursinghvaishnavi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="centre">Connect with me:</h3>
+<p align="centre">
 <a href="https://twitter.com/vaiz_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaiz_07" height="30" width="40" /></a>
 </p>
 
