@@ -11,7 +11,7 @@
   
 - 👨‍💻 3X Hackathon Winner
 
-- 🤝 Prev [AlphaVault](https://alphavault.io/)
+- 🤝 Member [BlocSociitr](https://github.com/BlocSoc-iitr) Prev [AlphaVault](https://alphavault.io/)
 
   
 - 📫 How to reach me **gaursinghvaishnavi@gmail.com**
