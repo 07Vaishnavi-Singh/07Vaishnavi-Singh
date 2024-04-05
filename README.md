@@ -7,7 +7,7 @@
 
 - 👯 I'm always ready to collaborate on exciting DeFi projects out there
 
-- 💬 Ask me about **Solidity, Yul and DeFi**
+- 💬 Ask me about **Solidity, Yul and DeFi and blockchain Development**
   
 - 👨‍💻 3X Hackathon Winner
 
