@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaiz</h1>
-<h3 align="center">A passionate blockchain and Backend developer from India</h3>
+<h3 align="center">A Blockchain and Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07vaishnavi-singh&label=Profile%20views&color=0e75b6&style=flat" alt="07vaishnavi-singh" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any cool Project on DeFi**
 
-- 💬 Ask me about **Solidity,Backend, Yul and DeFi**
+- 💬 Ask me about **Solidity, Yul and DeFi**
 
 - 📫 How to reach me **gaursinghvaishnavi@gmail.com**
 
