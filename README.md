@@ -1,15 +1,23 @@
-### Hi there 👋,  
-Hi I am an Undergrad student at IIT Roorkee interested in Web3.0 development and Ethereum Security. I enjoy finding bugs Smart Contracts, building cool stuff in Web3 and playing foosball in meantime. If that sounds interesting let's connect on Twitter- [https://twitter.com/07Vaiz_07 ](https://twitter.com/Vaiz_07)
+<h1 align="center">Hi 👋, I'm Vaiz</h1>
+<h3 align="center">A passionate blockchain and Backend developer from India</h3>
 
-Skills: Solidity / Smart Contract Security / MERN 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=07vaishnavi-singh&label=Profile%20views&color=0e75b6&style=flat" alt="07vaishnavi-singh" /> </p>
 
-- 🔭 I’m currently working on Web3 Development  
-- 🌱 I’m currently learning Smart Contract Security 
-- 👯 I’m looking to collaborate on making Ethereum Secure 
-- 📫 How to reach me: https://twitter.com/Vaiz_07
-- 😄 Pronouns: She/Her 
-- ⚡ Fun fact: The world is too big as well as too small. 
+- 🌱 I’m currently learning **Solidity,Yul and Assembly**
 
+- 👯 I’m looking to collaborate on **any cool Project on DeFi**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Vaiz_07)  
+- 💬 Ask me about **Solidity,Backend, Yul and DeFi**
+
+- 📫 How to reach me **gaursinghvaishnavi@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vaiz_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaiz_07" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=07vaishnavi-singh&show_icons=true&locale=en&layout=compact" alt="07vaishnavi-singh" /></p>
 
