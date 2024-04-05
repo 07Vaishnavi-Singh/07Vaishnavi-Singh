@@ -8,9 +8,9 @@
 - 👯 I’m looking to collaborate on **any cool Project on DeFi**
 
 - 💬 Ask me about **Solidity, Yul and DeFi**
-- 
+  
 - 👨‍💻 3X Hackathon Winner
-- 
+  
 - 📫 How to reach me **gaursinghvaishnavi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
