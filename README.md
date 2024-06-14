@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Vaiz_07 and I'm an undergrad as IIT Roorkee building and breaking stuff in blockchain.</h2>
+<h2 align="left">Hi 👋! My name is Vaiz_07 and I'm an undergrad at IIT Roorkee building and breaking stuff in blockchain.</h2>
 
 ###
 
@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/07Vaishnavi-Singh/07Vaishnavi-Singh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/07Vaishnavi-Singh/.github/workflows/output/snake.svg" alt="Snake animation" />
 
 ###
