@@ -1,5 +1,22 @@
 <h2 align="left">Hi 👋! My name is Vaiz_07 and I'm an undergrad as IIT Roorkee building and breaking stuff in blockchain.</h2>
 
+
+<h3 align="center">A Blockchain and Backend developer from India</h3>
+
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=07vaishnavi-singh&label=Profile%20views&color=0e75b6&style=flat" alt="07vaishnavi-singh" /> </p>
+
+- 🌱 I work on **Ethereum, Zk and DeFi**
+
+- 👯 I'm always ready to collaborate on exciting DeFi projects out there
+
+- 💬 Ask me about **Solidity, Yul and DeFi and blockchain Development**
+
+- 👨‍💻 3X Hackathon Winner
+
+- 🤝 Blockchain Developer Intern [@Xalts](https://www.xalts.io/), Member [Blocsociitr](https://github.com/BlocSoc-iitr), Prev [AlphaVault](https://alphavault.io/)
+
+
+- 📫 How to reach me **gaursinghvaishnavi@gmail.com**
 ###
 
 <div align="center">
