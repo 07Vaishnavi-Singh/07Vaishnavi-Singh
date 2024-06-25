@@ -55,8 +55,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/07Vaishnavi-Singh/07Vaishnavi-Singh/output/snake.svg" alt="Snake animation" />
-
-###
