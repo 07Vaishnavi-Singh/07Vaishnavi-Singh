@@ -13,7 +13,7 @@
 
 - 👨‍💻 3X Hackathon Winner
 
-- 🤝 Member [Blocsociitr](https://github.com/BlocSoc-iitr), Prev Blockchain Developer  [@Xalts](https://www.xalts.io/) , [@AlphaVault](https://alphavault.io/)
+- 🤝 Member [Blocsociitr](https://github.com/BlocSoc-iitr), Prev Blockchain Developer  [@Xalts]([https://www.xalts.io/](https://github.com/VaishnaviSingh-Xalts?tab=overview&from=2024-07-01&to=2024-07-23)) , [@AlphaVault](https://alphavault.io/)
 
 
 - 📫 How to reach me **gaursinghvaishnavi@gmail.com**
