@@ -16,7 +16,7 @@
 - 🤝 Member [Blocsociitr](https://github.com/BlocSoc-iitr), Prev Blockchain Developer  [@Xalts](https://github.com/VaishnaviSingh-Xalts?tab=overview&from=2024-07-01&to=2024-07-23) , [@AlphaVault](https://alphavault.io/)
 
 
-- 📫 How to reach me **gaursinghvaishnavi@gmail.com**
+- 📫 How to reach me [Vaiz_07](https://x.com/Vaiz_07)
 ###
 
 <div align="center">
