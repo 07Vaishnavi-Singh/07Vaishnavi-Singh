@@ -13,17 +13,13 @@
 
 - 👨‍💻 3X Hackathon Winner
 
-- 🤝Dev [@Cork Protocol](https://www.cork.tech/), Member [Blocsociitr](https://blocsoc.iitr.ac.in/), Prev Blockchain Developer  [@Xalts](https://github.com/VaishnaviSingh-Xalts?tab=overview&from=2024-07-01&to=2024-07-23) , [@AlphaVault](https://alphavault.io/)
+- 🤝Dev [@Cork Protocol](https://www.cork.tech/) & [Blocsociitr](https://blocsoc.iitr.ac.in/), Prev Blockchain Developer Intern  [@Xalts](https://github.com/VaishnaviSingh-Xalts?tab=overview&from=2024-07-01&to=2024-07-23) , [@AlphaVault](https://alphavault.io/)
 
 
 - 📫 How to reach me [Vaiz_07](https://x.com/Vaiz_07)
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=07Vaishnavi-Singh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=07Vaishnavi-Singh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=07Vaishnavi-Singh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
