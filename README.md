@@ -13,7 +13,7 @@
 
 - 👨‍💻 3X Hackathon Winner
 
-- 🤝Dev [@Cork Protocol](https://www.cork.tech/) & [Blocsociitr](https://blocsoc.iitr.ac.in/), Fellow [@Protocol Guild Fellowship](https://ecosystem-wg.notion.site/PL-Dev-Guild-4f9496e4c24245149b2d3537fdbbfa4e), Prev Blockchain Developer Intern  [@Xalts](https://github.com/VaishnaviSingh-Xalts?tab=overview&from=2024-07-01&to=2024-07-23) , [@AlphaVault](https://alphavault.io/)
+- 🤝Dev [@Cork Protocol](https://www.cork.tech/) & [Blocsociitr](https://blocsoc.iitr.ac.in/), Prev Blockchain Developer Intern  [@Xalts](https://github.com/VaishnaviSingh-Xalts?tab=overview&from=2024-07-01&to=2024-07-23) , [@AlphaVault](https://alphavault.io/), Fellow [@Protocol Guild Fellowship](https://ecosystem-wg.notion.site/PL-Dev-Guild-4f9496e4c24245149b2d3537fdbbfa4e),
 
 
 - 📫 How to reach me [Vaiz_07](https://x.com/Vaiz_07)
