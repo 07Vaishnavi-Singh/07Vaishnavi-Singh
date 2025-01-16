@@ -5,7 +5,7 @@
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=07vaishnavi-singh&label=Profile%20views&color=0e75b6&style=flat" alt="07vaishnavi-singh" /> </p>
 
-- 🌱 I work on **Smart Contracts, Zk and DeFi**
+- 🌱 I work on **Smart Contracts and DeFi**
 
 - 👯 I'm always ready to collaborate on exciting DeFi projects out there
 
