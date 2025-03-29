@@ -13,9 +13,9 @@ Hey I am Vaiz, a final year student at IIT Roorkee, building in Defi and Ethereu
   
 - Fellowship - [PLDG](https://ecosystem-wg.notion.site/PL-Dev-Guild-4f9496e4c24245149b2d3537fdbbfa4e), [WIEP](https://x.com/wiepteam)
   
-- Inter-IIT Gold Medalist (Consensys PS)
+- [Inter-IIT Gold Medalist](https://github.com/Bisht13/Inter-IIT-2k23) (Consensys PS)
   
-- ZKMask (ETHParis Track Prize)
+- [ZKMask](https://github.com/zkMask) (ETHParis Track Prize)
 
 
 ###
