@@ -1,24 +1,24 @@
-<h2 align="left">Hi 👋! My name is Vaiz_07 and I'm an undergrad at IIT Roorkee building and breaking stuff in blockchain.</h2>
+Hey I am Vaiz, a final year student at IIT Roorkee, building in Defi and Ethereum core development. Currently, I am exploring MEV and core Ethereum development 
+
+### Open Source Contributions
+- [reth](https://github.com/paradigmxyz/reth) (contributor)
+  
+- [alloy](https://github.com/alloy-rs/alloy) (contributor)
+- [Filecoin-FIL-Builders](https://github.com/FIL-Builders) (contributor)
 
 
-<h3 align="center">A Blockchain and Backend developer from India</h3>
+### Past Expereince and Projects:
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=07vaishnavi-singh&label=Profile%20views&color=0e75b6&style=flat" alt="07vaishnavi-singh" /> </p>
-
-- 🌱 I work on **Smart Contracts and DeFi**
-
-- 👯 I'm always ready to collaborate on exciting DeFi projects out there
-
-- 💬 Ask me about **Solidity, Yul and DeFi and Blockchain Development**
-
-- 👨‍💻 3X Hackathon Winner
-
-- 🤝Dev [@Cork Protocol](https://www.cork.tech/) & [Blocsociitr](https://blocsoc.iitr.ac.in/), Prev Blockchain Developer Intern  [@Xalts](https://github.com/VaishnaviSingh-Xalts?tab=overview&from=2024-07-01&to=2024-07-23) , [@AlphaVault](https://alphavault.io/), Fellow [@Protocol Guild Fellowship](https://ecosystem-wg.notion.site/PL-Dev-Guild-4f9496e4c24245149b2d3537fdbbfa4e), [WIEP](https://x.com/wiepteam)
+- Ex Blockchain Development Intern at [Cork Protocol](https://github.com/Cork-Technology), [Xalts](https://github.com/VaishnaviSingh-Xalts), [AppicDAO](https://github.com/Appic-Solutions)
+  
+- Fellowship - [PLDG](https://ecosystem-wg.notion.site/PL-Dev-Guild-4f9496e4c24245149b2d3537fdbbfa4e), [WIEP](https://x.com/wiepteam)
+  
+- Inter-IIT Gold Medalist (Consensys PS)
+  
+- ZKMask (ETHParis Track Prize)
 
 
-- 📫 How to reach me [Vaiz_07](https://x.com/Vaiz_07)
 ###
-
 
 
 ###
