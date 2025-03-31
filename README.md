@@ -1,9 +1,9 @@
 Hey I am Vaiz, a final year student at IIT Roorkee, building in Defi and Ethereum core development. Currently, I am exploring MEV and core Ethereum development 
 
 ### Open Source Contributions
-- [reth](https://github.com/paradigmxyz/reth) (contributor)
-- [revm](https://github.com/bluealloy/revm) (contributor)
-- [alloy](https://github.com/alloy-rs/alloy) (contributor)
+- [reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3A07Vaishnavi-Singh) (contributor)
+- [revm](https://github.com/bluealloy/revm/pulls?q=is%3Apr+author%3A07Vaishnavi-Singh) (contributor)
+- [alloy](https://github.com/alloy-rs/alloy/pulls?q=is%3Apr+author%3A07Vaishnavi-Singh) (contributor)
 - [Filecoin-FIL-Builders](https://github.com/FIL-Builders) (contributor)
 
 
