@@ -2,7 +2,7 @@ Hey I am Vaiz, a final year student at IIT Roorkee, building in Defi and Ethereu
 
 ### Open Source Contributions
 - [reth](https://github.com/paradigmxyz/reth) (contributor)
-  
+- [revm](https://github.com/bluealloy/revm) (contributor)
 - [alloy](https://github.com/alloy-rs/alloy) (contributor)
 - [Filecoin-FIL-Builders](https://github.com/FIL-Builders) (contributor)
 
