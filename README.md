@@ -17,6 +17,7 @@ Hey I am Vaiz, a final year student at IIT Roorkee, building in Defi and Ethereu
 - [Inter-IIT Gold Medalist](https://github.com/Bisht13/Inter-IIT-2k23) (Consensys PS)
   
 - [ZKMask](https://github.com/zkMask) (ETHParis Track Prize)
+- [My Writing](https://vaiz07.substack.com/publish/posts/detail/162321669?referrer=%2Fpublish%2Fhome)
 
 
 ###
