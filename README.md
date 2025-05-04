@@ -3,7 +3,7 @@ Hey I am Vaiz, a final year student at IIT Roorkee, building in Defi and Ethereu
 ### [My Articles](https://vaiz07.substack.com/publish/posts/detail/162321669?referrer=%2Fpublish%2Fhome)
 
 ### Open Source Contributions
-- [reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3A07Vaishnavi-Singh) (contributor)
+- [reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+is%3Amerged+author%3A07Vaishnavi-Singh) (contributor)
 - [revm](https://github.com/bluealloy/revm/pulls?q=is%3Apr+author%3A07Vaishnavi-Singh) (contributor)
 - [ethereum-optimism](https://github.com/ethereum-optimism/specs/pulls?q=is%3Apr+author%3A07Vaishnavi-Singh) (contributor)
 - [alloy](https://github.com/alloy-rs/alloy/pulls?q=is%3Apr+author%3A07Vaishnavi-Singh) (contributor)
