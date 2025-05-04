@@ -1,4 +1,6 @@
-Hey I am Vaiz, a final year student at IIT Roorkee, building in Defi and Ethereum core development. Currently, I am exploring MEV and core Ethereum development 
+Hey I am Vaiz, a final year student at IIT Roorkee, building in Defi and Ethereum core development. Currently, I am exploring MEV and core Ethereum development.
+
+### [My Articles](https://vaiz07.substack.com/publish/posts/detail/162321669?referrer=%2Fpublish%2Fhome)
 
 ### Open Source Contributions
 - [reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3A07Vaishnavi-Singh) (contributor)
@@ -17,7 +19,7 @@ Hey I am Vaiz, a final year student at IIT Roorkee, building in Defi and Ethereu
 - [Inter-IIT Gold Medalist](https://github.com/Bisht13/Inter-IIT-2k23) (Consensys PS)
   
 - [ZKMask](https://github.com/zkMask) (ETHParis Track Prize)
-- [My Writings](https://vaiz07.substack.com/publish/posts/detail/162321669?referrer=%2Fpublish%2Fhome)
+
 
 
 ###
