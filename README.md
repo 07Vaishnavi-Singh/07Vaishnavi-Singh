@@ -1,4 +1,4 @@
-Hey I am Vaiz, a final year student at IIT Roorkee, building in Defi and Ethereum core development. Currently, I am exploring MEV and core Ethereum development.
+Hey I am Vaiz, building in Defi and Ethereum core development. Currently, I am exploring MEV and core Ethereum development.
 
 ### [My Articles](https://vaiz07.substack.com/publish/posts/detail/162321669?referrer=%2Fpublish%2Fhome)
 
