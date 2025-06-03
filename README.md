@@ -1,5 +1,7 @@
 Hey I am Vaiz, building in Defi and Ethereum core development. Currently, I am exploring MEV and core Ethereum development.
 
+### [My Resume](https://drive.google.com/file/d/1MAYI4xkrFH6ng7KClsx74ItqbS93zkSE/view?usp=sharing)
+
 ### [My Articles](https://vaiz07.substack.com/publish/posts/detail/162321669?referrer=%2Fpublish%2Fhome)
 
 ### Open Source Contributions
