@@ -1,4 +1,4 @@
-Hey I am Vaiz, building in Defi and Ethereum core development. Currently, I am exploring MEV and core Ethereum development.
+Hey I am Vaiz, building in Defi and Ethereum core development.
 
 ### [My Resume](https://drive.google.com/file/d/1MAYI4xkrFH6ng7KClsx74ItqbS93zkSE/view?usp=sharing)
 
