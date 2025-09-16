@@ -1,4 +1,4 @@
-Hey I am Vaiz, building in Defi and Ethereum core development.
+Hey I am Vaiz, building in Defi and Ethereum core development. I rust, solidity and TS.
 
 ### [My Resume](https://drive.google.com/file/d/1QXS89ZWgmVnCWFPPoviVX35GlU-tqrSB/view)
 
