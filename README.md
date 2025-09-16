@@ -1,6 +1,6 @@
 Hey I am Vaiz, building in Defi and Ethereum core development.
 
-### [My Articles](https://vaiz07.substack.com/publish/posts/detail/162321669?referrer=%2Fpublish%2Fhome)
+### [My Resume](https://drive.google.com/file/d/1QXS89ZWgmVnCWFPPoviVX35GlU-tqrSB/view)
 
 ### Open Source Contributions
 - [reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+is%3Amerged+author%3A07Vaishnavi-Singh) (contributor)
@@ -19,6 +19,9 @@ Hey I am Vaiz, building in Defi and Ethereum core development.
 - [Inter-IIT Gold Medalist](https://github.com/Bisht13/Inter-IIT-2k23) (Consensys PS)
   
 - [ZKMask](https://github.com/zkMask) (ETHParis Track Prize)
+
+### [My Articles](https://vaiz07.substack.com/publish/posts/detail/162321669?referrer=%2Fpublish%2Fhome)
+
 
 
 
