@@ -1,6 +1,5 @@
 Hey I am Vaiz, building in Defi and Ethereum core development. I rust, solidity and TS.
 
-### [My Resume](https://drive.google.com/file/d/1QXS89ZWgmVnCWFPPoviVX35GlU-tqrSB/view)
 
 ### Open Source Contributions
 - [reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+is%3Amerged+author%3A07Vaishnavi-Singh) (contributor)
