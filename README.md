@@ -1,4 +1,4 @@
-Hey I am Vaiz, building in Defi and Ethereum core development. I rust, solidity and TS.
+Hey I am Vaiz, building in Defi and Ethereum core development. I write rust, solidity and TS.
 
 
 ### Open Source Contributions
