@@ -5,9 +5,8 @@ Hey I am Vaiz, building in Defi and Ethereum core development. I write rust, sol
 - [reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+is%3Amerged+author%3A07Vaishnavi-Singh) (contributor)
 - [revm](https://github.com/bluealloy/revm/pulls?q=is%3Apr+author%3A07Vaishnavi-Singh) (contributor)
 - [ethereum-optimism](https://github.com/ethereum-optimism/specs/pulls?q=is%3Apr+author%3A07Vaishnavi-Singh) (contributor)
+- [go-hyperliquid](https://github.com/sonirico/go-hyperliquid/pull/116#event-21894379707) (contributor)
 - [alloy](https://github.com/alloy-rs/alloy/pulls?q=is%3Apr+author%3A07Vaishnavi-Singh) (contributor)
-- [Filecoin-FIL-Builders](https://github.com/FIL-Builders) (contributor)
-
 
 ### Past Expereince and Projects:
 
