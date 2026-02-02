@@ -1,4 +1,4 @@
-Hey I am Vaiz, building in Defi and Ethereum core development. I write rust and solidity.
+Hey I am Vaiz, software engineer at Anthias Labs. I write rust and solidity.
 
 
 ### Open Source Contributions
