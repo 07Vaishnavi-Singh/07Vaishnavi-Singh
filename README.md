@@ -12,7 +12,7 @@ Hey I am Vaiz, a software engineer at Anthias Labs. I write rust and solidity.
 
 - Ex Blockchain Development Intern at [Cork Protocol](https://github.com/Cork-Technology), [Xalts](https://github.com/VaishnaviSingh-Xalts), [AppicDAO](https://github.com/Appic-Solutions)
   
-- Fellowship - [PLDG](https://ecosystem-wg.notion.site/PL-Dev-Guild-4f9496e4c24245149b2d3537fdbbfa4e), [WIEP](https://x.com/wiepteam)
+- Open Source Fellowships - [PLDG](https://ecosystem-wg.notion.site/PL-Dev-Guild-4f9496e4c24245149b2d3537fdbbfa4e), [WIEP](https://x.com/wiepteam)
   
 - [Inter-IIT Gold Medalist](https://github.com/Bisht13/Inter-IIT-2k23) (Consensys PS)
   
