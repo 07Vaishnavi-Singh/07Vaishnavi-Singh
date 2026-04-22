@@ -1,4 +1,4 @@
-Hey I am Vaiz, a software engineer at Anthias Labs. I write rust, go and solidity.
+Hey I am Vaiz, I work in web3, ai and distributed systems, currently working as a software engineer at Anthias Labs. I write rust, go and solidity.
 
 
 ### Open Source Contributions
