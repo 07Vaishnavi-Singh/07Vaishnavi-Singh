@@ -10,7 +10,7 @@ Hey I am Vaiz, I work in web3, ai and distributed systems, currently working as 
 
 ### Past Expereince and Projects:
 
-- Ex Blockchain Development Intern at [Cork Protocol](https://github.com/Cork-Technology), [Xalts](https://github.com/VaishnaviSingh-Xalts), [AppicDAO](https://github.com/Appic-Solutions)
+- Ex SWE Intern at [Cork Protocol](https://github.com/Cork-Technology), [Xalts](https://github.com/VaishnaviSingh-Xalts), [AppicDAO](https://github.com/Appic-Solutions)
   
 - Open Source Fellowships - [PLDG](https://ecosystem-wg.notion.site/PL-Dev-Guild-4f9496e4c24245149b2d3537fdbbfa4e), [WIEP](https://x.com/wiepteam)
   
