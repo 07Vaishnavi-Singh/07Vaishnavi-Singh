@@ -1,4 +1,4 @@
-Hey I am Vaiz 
+Hey I am Vaiz, I work as a SWE at recepto.ai 
 
 
 ### Open Source Contributions
